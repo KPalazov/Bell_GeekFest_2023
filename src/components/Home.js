@@ -15,7 +15,7 @@ const Home = () => (
         <div style={{ textAlign: "center" }}>
           <img id="mainLogo" src={logo} alt="Data Defenders" />
         </div>
-        <h1>Data Defenders</h1>
+        <h1>INFO10111 Cyber Security</h1>
         <div className="play-button-container">
           <ul>
             <li>
